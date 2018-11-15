@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [GridViewControlPanel.ascx](./CS/WebSite/GridViewControlPanel.ascx) (VB: [GridViewControlPanel.ascx](./VB/WebSite/GridViewControlPanel.ascx))
+* [GridViewControlPanel.ascx.cs](./CS/WebSite/GridViewControlPanel.ascx.cs) (VB: [GridViewControlPanel.ascx](./VB/WebSite/GridViewControlPanel.ascx))
+<!-- default file list end -->
 # How to implement a custom Column Customization window
 
 
