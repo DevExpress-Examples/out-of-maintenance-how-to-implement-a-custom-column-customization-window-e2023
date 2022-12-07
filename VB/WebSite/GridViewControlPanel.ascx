@@ -1,9 +1,8 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeFile="GridViewControlPanel.ascx.vb"
 	Inherits="GridViewControlPanel" %>
-<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
-	Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
-	Namespace="DevExpress.Web.ASPxPopupControl" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v15.1, Version=15.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+	Namespace="DevExpress.Web" TagPrefix="dx" %>
+
 <script type="text/javascript" language="javascript">
 	function ShowHidePopUpControl(popUp) {
 		if (!popUp.GetVisible()) 
